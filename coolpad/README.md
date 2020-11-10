@@ -1,4 +1,4 @@
-# coolpad version 1
+# Coolpad v.1
 
 - The supporting parts of the first prototype of the body are made of plastic and printed on a 3D printer.
 - Radiator grilles are cut on both sides of the body to ensure normal aerodynamics.
