@@ -1,0 +1,1 @@
+# coolpad version 2
