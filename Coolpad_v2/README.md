@@ -1,4 +1,11 @@
-# coolpad version 2
+# Coolpad v.2
+
+- The supporting parts of the second prototype of the body are made of plywood and cut on a laser machine.
+- Radiator grilles are cut on both sides of the body to ensure normal aerodynamics.
+- In the lower part of the case, under the coolers, there are cutouts for air intake.
+- Inside the case there are fastening structures for the photoresistor module, printed circuit board, power connector, as well as a temperature sensor (the fastening structure is made of plastic on a 3D printer).
+- On the back there are cutouts for attaching the ON / OFF and power buttons. There are rubber feet at the bottom in the corners.
+- The housing cover is laser cut from a perforated sheet of metal. The perforation is made in the form of round holes.
 
 ![](https://sun9-34.userapi.com/impf/ZsZvMte8i5s57MN29722C6dOfZJBZ4TGP0pKhQ/NXp7XIZMQjM.jpg?size=1093x809&quality=96&proxy=1&sign=55385367b9306747592c8db954a4b259)
 ---------------------------------------------------------------------------------------
